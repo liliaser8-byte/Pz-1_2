@@ -68,7 +68,7 @@ int main() {
 <img width="1766" height="851" alt="image" src="https://github.com/user-attachments/assets/c69bb02b-5006-4adf-a45d-6f91d8cbb039" />
 
 ### 👁️ Візуалізація пам'яті:
-![Стрілочки пам'яті Розділ 1](lab4_sec1.png)
+
 <img width="1006" height="716" alt="image" src="https://github.com/user-attachments/assets/67641322-f93f-4895-adb2-f7211bbd7f59" />
 <img width="1161" height="720" alt="image" src="https://github.com/user-attachments/assets/8bf1a5d1-b008-4c43-9e28-5bb0d12b7211" />
 <img width="1062" height="673" alt="image" src="https://github.com/user-attachments/assets/afd8e8b1-33cd-4fe9-80aa-a992ccaaee3a" />
